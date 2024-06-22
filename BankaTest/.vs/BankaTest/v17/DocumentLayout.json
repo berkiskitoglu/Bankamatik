@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|c:\\users\\iskit\\desktop\\udemy_project\\bankatest\\bankatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\bankatest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\bankatest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\bankatest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\bankatest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\bankatest\\gerceklesmis_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\gerceklesmis_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|c:\\users\\iskit\\desktop\\udemy_project\\bankatest\\bankatest\\gerceklesmis_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC89D83-7523-4977-9328-895314630C52}|BankaTest\\BankaTest.csproj|solutionrelative:bankatest\\gerceklesmis_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Program.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Program.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Program.cs",
+              "RelativeToolTip": "BankaTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:36:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gerceklesmis_Islemler.cs",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Gerceklesmis_Islemler.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Gerceklesmis_Islemler.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Gerceklesmis_Islemler.cs",
+              "RelativeToolTip": "BankaTest\\Gerceklesmis_Islemler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:43:43.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gerceklesmis_Islemler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Gerceklesmis_Islemler.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Gerceklesmis_Islemler.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Gerceklesmis_Islemler.cs [Design]",
+              "RelativeToolTip": "BankaTest\\Gerceklesmis_Islemler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:42:33.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form1.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form1.cs [Design]",
+              "RelativeToolTip": "BankaTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:45:29.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form1.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form1.cs",
+              "RelativeToolTip": "BankaTest\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA3wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:31:57.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form2.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Form2.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form2.cs [Design]",
+              "RelativeToolTip": "BankaTest\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:34:10.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form2.cs",
+              "RelativeDocumentMoniker": "BankaTest\\Form2.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\BankaTest\\BankaTest\\Form2.cs",
+              "RelativeToolTip": "BankaTest\\Form2.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAvwFEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:30:53.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

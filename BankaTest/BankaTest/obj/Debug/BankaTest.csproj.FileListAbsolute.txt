@@ -1,0 +1,13 @@
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.Form2.resources
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.Form3.resources
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.pdb
+C:\Users\iskit\Desktop\Udemy_Project\BankaTest\BankaTest\obj\Debug\BankaTest.Gerceklesmis_Islemler.resources
